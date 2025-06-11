@@ -7,6 +7,6 @@ from accessify import protected, private
 # finish test for work with GitHub into Code_Runer_Repo
 
 # I am working with Code_Runer_Repo_FORK now!!!
-# Already merge fork version with rigin version 
+# Already merge fork version with origin version 
 
 
