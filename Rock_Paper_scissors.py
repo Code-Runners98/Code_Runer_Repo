@@ -41,12 +41,3 @@ while True:
 print(f'You won {user_wins} times')
 print(f'Computer wins {computer_wins} times')
 print('Bye)')
-    
-
-
-
-
-
-    
-
-
